@@ -6,7 +6,7 @@ Welcome to my Python learning space! This is where I transition from writing has
 
 ## 🎯 Learning Roadmap & Milestones
 
-- [ ] **Basics & Fundamentals**: Syntax, variables, control flow, loops, and functions.
+- [x] **Basics & Fundamentals**: Syntax, variables, control flow, loops, and functions.
 - [ ] **Data Structures**: Lists, Tuples, Dictionaries, and Sets.
 - [ ] **Object-Oriented Programming (OOP)**: Classes, inheritance, polymorphism, encapsulation, and abstraction.
 - [ ] **File Handling & Exceptional Handling**: Reading/writing files, handling errors gracefully.
@@ -21,6 +21,7 @@ Welcome to my Python learning space! This is where I transition from writing has
 ```bash
 Python/
 ├── Basics/          # Syntax, loops, basic scripts
+│   └── variables_datatypes.py  # Day 1: Executable variable & datatype demo
 ├── OOP/             # Object-oriented design examples
 ├── Advanced/        # Decorators, generators, advanced concepts
 └── Projects/        # Python-based automation and mini-projects
@@ -30,5 +31,5 @@ Python/
 
 ## 📈 Current Progress
 
-- **Status**: Starting soon! 🚀
+- **Status**: Day 1 Complete! 🚀
 - **Daily Commit Goal**: At least one structured Python exercise daily.

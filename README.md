@@ -142,9 +142,9 @@ This is my journey from:
 
 | Day | Topic | Status |
 |------|------|------|
-| Day 1 | Python Basics | ✅ |
-| Day 2 | Variables & Data Types | ✅ |
-| Day 3 | Input/Output | 🔄 |
+| Day 1 | [Python Basics, Variables & Datatypes](Daily-Logs/Day-001.md) | ✅ |
+| Day 2 | Variables & Data Types (Continuing) | ⏳ |
+| Day 3 | Input/Output | ⏳ |
 | Day 4 | Operators | ⏳ |
 
 ---
@@ -152,8 +152,7 @@ This is my journey from:
 # 📂 Repository Structure
 
 ```bash
-from-vibe-coder-to-engineer/
-│
+.
 ├── Python/
 ├── DSA/
 ├── AI-ML/
@@ -162,14 +161,6 @@ from-vibe-coder-to-engineer/
 ├── Notes/
 └── Resources/
 ```
-
----
-
-# ⚡ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,git,github,vscode" />
-</p>
 
 ---
 
@@ -223,11 +214,15 @@ Through consistency.
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/thalada-asrith-behala" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/Asrith1198">
+<a href="https://www.instagram.com/buildwith.asrith?igsh=MTlhcW8yaWltbGVnZg==" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://github.com/Asrith1198" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
