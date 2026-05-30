@@ -32,4 +32,4 @@ What's next on the roadmap?
 ## 🚀 Log Directory
 
 - [ ] [Day 001 - Python Basics & Setting Up Workspace](./Day-001.md) *Coming soon...*
-- [ ] [Day 002 - Variables & Control Flow in Depth](./Day-002.md) *Coming soon...*
+- [x] [Day 002 - Variables & Control Flow in Depth](./Day-002.md)
